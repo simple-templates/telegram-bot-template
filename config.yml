@@ -1,0 +1,10 @@
+# Store various sensitive settings of the bot such as access tokens and cookies
+keys:
+  - 
+    token: ""
+    cookie: ""
+    year: 2021
+
+messages:
+  - 
+    start: null
